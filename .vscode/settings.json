@@ -10,5 +10,11 @@
       "notificationsInfoIcon.foreground": "#0D9373",
       "editor.selectionBackground": "#0D937333"
     }
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.organizeImports": "explicit",
+    "source.fixAll.eslint": "explicit",
+    "source.fixAll.format": "explicit"
   }
 }
